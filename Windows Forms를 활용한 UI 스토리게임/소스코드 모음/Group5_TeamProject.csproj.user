@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form3_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3_4_scaryman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3_5_Saibi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3_6_MobleStu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3_7_Ggangdagu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3_8_BabariMan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Ex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_GameOver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Game_Clear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Inventori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_lock_Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_MainStory_Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Moble.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_MobleEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_MobleHint1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Moble_ComputerScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Progressbar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Step2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Step2_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Step2_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Step2_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
